@@ -46,7 +46,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/Pranay-Gupta/decentralised-airbnb.git
+  git clone [https://github.com/ritwikchawla/Decentralised-Airbnb-clone.git]
 ```
 
 Go to the project directory
