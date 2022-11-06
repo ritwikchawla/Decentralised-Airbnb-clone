@@ -1,5 +1,5 @@
 
-# Decentralised Airbnb
+# Decentralized Airbnb
 
  A completely responsive decentralised react Airbnb clone made with travel advisor, google maps api, google places api, material ui, solidity, moralisDb and web3uikit.
 
